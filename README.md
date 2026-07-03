@@ -19,6 +19,28 @@ CarRental est une plateforme web de location de voitures entre particuliers. Ell
 - Avis et évaluations
 - Chatbot intégré
 
+## Captures d’écran
+
+### Page d’accueil
+
+![Page d’accueil de CarRental](screenshots/accueil_hero.png)
+
+### Catalogue et recherche de véhicules
+
+![Catalogue et recherche de véhicules](screenshots/catalogue_recherche.png)
+
+### Tableau de bord client
+
+![Tableau de bord client](screenshots/dashboard_client.png)
+
+### Tableau de bord propriétaire
+
+![Tableau de bord propriétaire](screenshots/dashboard_proprio.png)
+
+### Tableau de bord administrateur
+
+![Tableau de bord administrateur](screenshots/dashboard_admin.png)
+
 ## Technologies utilisées
 
 - PHP
